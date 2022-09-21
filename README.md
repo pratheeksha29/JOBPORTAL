@@ -4,4 +4,4 @@ A simple web project which creates a site for posting the jobs and applying for 
 Uses : PHP,HTML,CSS,Bootstrap
 
 Video Recording the Portal:
-https://cdn.kapwing.com/final_63233c485d6010122cc794c0_943081.mp4
+https://drive.google.com/file/d/1xEnW2pH9PE81qbB8i_jFhim0_caRJUdg/view?usp=sharing
